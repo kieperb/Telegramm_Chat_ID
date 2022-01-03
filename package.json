@@ -1,0 +1,11 @@
+{
+  "name": "get-telegram-chat-id",
+  "version": "1.0.0",
+  "author": "Sean Bradley : https://sbcode.net",
+  "license": "ISC",
+  "description": "Get a Telegram Chat ID",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["Telegram", "Telegram Chat ID"]
+}
